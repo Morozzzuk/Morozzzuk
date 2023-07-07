@@ -26,4 +26,3 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - Pre-Intermediate
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morozzzuk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/e7761a65-0dc5-4350-bdf9-85945dc46995.svg)](https://wakatime.com/@e7761a65-0dc5-4350-bdf9-85945dc46995)
