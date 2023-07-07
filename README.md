@@ -24,3 +24,4 @@ Languages : 🇺🇦 Ukrainian - Native | 🇬🇧 English - Pre-Intermediate
 </div>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=akarpenko83&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
